@@ -1,2 +1,2 @@
 # Weather-Finder
-This site is able to find temperature of any city in the world.
+This site is able to find temperature of any capital city in the world.
